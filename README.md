@@ -3,5 +3,5 @@
 
 Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space (Enable power up)
 
-Win by breaking through the tiles and hitting the roof
+Win by breaking through the tiles and breaking the blue tiles
 
