@@ -3,5 +3,5 @@
 
 Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space (Enable power up)
 
-Win by breaking through the tiles and breaking the blue tiles
+Break through the tiles to reach and destroy the blue tiles for the win
 
