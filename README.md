@@ -7,7 +7,7 @@ Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space 
 
 Break through the tiles to reach and destroy the blue tiles for the win!
 
-Defeat the boss by repeatedly hitting him with the ball whle dodging his powerful attacks.
+Defeat "The Boss Khaled" by repeatedly hitting him with the ball whle dodging his powerful attacks.
 
 Once you select your power up, you can't select anther one until you restart the game with R.
 
