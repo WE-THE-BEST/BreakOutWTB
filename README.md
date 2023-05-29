@@ -12,5 +12,3 @@ Defeat "The Boss Khaled" by repeatedly hitting him with the ball whle dodging hi
 Once you select your power up, you can't select anther one until you restart the game with R.
 
 You can view the known bugs and what caused them in the Issues tab under Closed Issues.
-
-Code in game reused by owen fielding because he could not code the method
