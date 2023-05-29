@@ -1,4 +1,4 @@
-# BreakoutWTB
+# BreakOutWTB // BreakOut We The Best
 *Copyright 2023 We The Best Media*
 
 **There is no score because you win by reaching the blue tiles, not destroying all the tiles!**
