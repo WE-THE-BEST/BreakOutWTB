@@ -7,7 +7,7 @@ Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space 
 
 Break through the tiles to reach and destroy the blue tiles for the win!
 
-Once you select your power up, you can't select anther one until you restart the game with R.
+Once you select your power up, you can't select anther one until you restart the game.
 
 You can view the known bugs and what caused them in the Issues tab under Closed Issues.
 
