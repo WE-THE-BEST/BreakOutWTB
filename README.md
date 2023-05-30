@@ -5,7 +5,7 @@
 
 Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space (Enable power up)
 
-Break through the tiles to reach and destroy the blue tiles for the win![1]
+Break through the tiles to reach and destroy the blue tiles for the win!<sub>[1]</sub>
 
 Once you select your power up, you can't select anther one until you restart the game.
 
