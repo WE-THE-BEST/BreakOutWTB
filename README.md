@@ -1,7 +1,7 @@
 # BreakOutWTB // BreakOut We The Best
 *Copyright 2023 We The Best Media*
 
-**There is no score because you win by reaching the blue tiles<sub>**[1]**</sub>, not destroying all the tiles!**
+**There is no score because you win by reaching the blue tiles<sub>[1]</sub>, not destroying all the tiles!**
 
 Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space (Enable power up)
 
