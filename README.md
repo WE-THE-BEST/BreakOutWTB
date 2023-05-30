@@ -11,4 +11,4 @@ Once you select your power up, you can't select anther one until you restart the
 
 You can view the known bugs and what caused them in the Issues tab under Closed Issues.
 
-<sub>[1]</sub>In boss mode defeat "The Boss Khaled" by repeatedly hitting him with the ball while dodging his powerful attacks.
+<sup>[1]</sup>In boss mode defeat "The Boss Khaled" by repeatedly hitting him with the ball while dodging his powerful attacks.
