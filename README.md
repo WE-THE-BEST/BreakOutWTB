@@ -1,7 +1,7 @@
 # BreakOutWTB // BreakOut We The Best
 *Copyright 2023 We The Best Media*
 
-**There is no score because you win by reaching the blue tiles[1], not destroying all the tiles!**
+**There is no score because you win by reaching the blue tiles<sub>**[1]**</sub>, not destroying all the tiles!**
 
 Controls are A (Left), D (Right), R (Restart), Escape (Pause/Unpause) and Space (Enable power up)
 
@@ -11,4 +11,4 @@ Once you select your power up, you can't select anther one until you restart the
 
 You can view the known bugs and what caused them in the Issues tab under Closed Issues.
 
-[1]In boss mode defeat "The Boss Khaled" by repeatedly hitting him with the ball while dodging his powerful attacks.
+<sub>[1]</sub>In boss mode defeat "The Boss Khaled" by repeatedly hitting him with the ball while dodging his powerful attacks.
